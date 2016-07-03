@@ -1,4 +1,4 @@
 # hello-world
 First test
 
-This is to see hos this looks like
+This is to see how this looks like
